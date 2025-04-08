@@ -34,3 +34,4 @@ E:\Work\testapp\testapp\obj\Debug\net8.0\refint\testapp.dll
 E:\Work\testapp\testapp\obj\Debug\net8.0\testapp.pdb
 E:\Work\testapp\testapp\obj\Debug\net8.0\testapp.genruntimeconfig.cache
 E:\Work\testapp\testapp\obj\Debug\net8.0\ref\testapp.dll
+E:\Work\testapp\testapp\obj\Debug\net8.0\testapp.sourcelink.json
