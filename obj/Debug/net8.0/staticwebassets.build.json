@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "z/CBZuxrWsjm28hxfzufE/CKC3GiK5awpl+MdcXiWVg=",
+  "Source": "testapp",
+  "BasePath": "_content/testapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
