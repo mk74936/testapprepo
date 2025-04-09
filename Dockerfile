@@ -1,7 +1,7 @@
 # Use the official Microsoft .NET Core SDK image to build the app
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
-EXPOSE 8082  # Exposing port 8082
+EXPOSE 8082
 
 # Use the official .NET SDK image to build the app
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
