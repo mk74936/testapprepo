@@ -14,7 +14,7 @@ var app = builder.Build();
  app.UseSwagger();
  app.UseSwaggerUI(c =>
     {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V2");
         c.RoutePrefix = string.Empty;  // This will set Swagger UI to be available at the root of the application.
     });
 
